@@ -35,7 +35,7 @@
 🔧 **Tech Stack**: Apex, LWC, Salesforce Lightning  
 ✅ **Achievements**: Automated business processes reducing manual work by 40%
 
-### MERN Stack Project: [Project Name](https://github.com/yourusername/mern-project)
+### MERN Stack Project: [Project Management Application ](https://github.com/prinson001/Project-Management)
 📌 Full-stack application with real-time features  
 🔧 **Tech Stack**: React, Node.js, Express, PostgreSQL  
 🚀 **Innovation**: Implemented JWT authentication and RESTful APIs
@@ -66,7 +66,7 @@
 [![Salesforce Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://trailblazer.me/id/prinsondsouza)
 [![Freelance Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
 
-📫 **Reach Me**: your.email@domain.com  
+📫 **Reach Me**: prinsond53@gmail.com  
 💬 **Ask Me About**: Salesforce customization, Apex best practices, or MERN stack architecture
 
 ---
