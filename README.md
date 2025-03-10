@@ -1,6 +1,6 @@
 # Hi there, I'm Prinson dsouza 👨💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1E6&width=435&lines=Salesforce+Developer;MERN+Stack+Developer;Full-Stack+Problem+Solver;Cloud+Solutions+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1E6&width=435&lines=Salesforce+Developer;MERN+Stack+Enthusiast;Full-Stack+Problem+Solver;Cloud+Solutions+Enthusiast)](https://git.io/typing-svg)
 
 ### Bridging Enterprise Solutions with Modern Web Development
 
